@@ -6,7 +6,6 @@
 ![Evidencia 2](<./evidencias/2.png>)
 # Como vemos aparecen los demas metodos crud en la tabla que me pertenece en mi caso la de flujo de procesos.
 # 2) Aplicar por lo menos una prueba unitaria para los métodos del servicio REST
-![Evidencia 3](<./evidencias/3.png>)
 ![Evidencia 6](<./evidencias/6.png>)
 ```bash
 npm run test -- flujo_proceso.service.spec.ts
